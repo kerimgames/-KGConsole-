@@ -1,5 +1,5 @@
 import os
-os.system("title KGConsole v1.0")
+os.system("title KGConsole v2.0")
 
 
 import os  
@@ -14,7 +14,7 @@ import calendar
 import winsound
 
 # ------------------ AYARLAR ------------------
-VERSION = "1.0"
+VERSION = "2.0"
 START_DIR = os.path.join(os.path.expanduser("~"), "Desktop")
 START_TIME = time.time()
 ALIASES = {}
